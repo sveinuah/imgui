@@ -10,5 +10,3 @@ add_library(imgui STATIC
 	imgui_draw.cpp
 	imgui_widgets.cpp
 )
-
-GLOB
